@@ -1,0 +1,9 @@
+<style>
+	h2{text-align: center; border-color: grey; border-style: outset; border-width: 10px; padding 10px; text-align: center}
+	body{background-color : rgb(197,203,101)}
+	h1{text-align: center; color : red; font-family : Arial; border-color: white; border-style: groove; border-width: 10px; padding 10px; text-align: center}
+	li{color: green}
+	img{border-radius:8px}
+
+
+</style>
